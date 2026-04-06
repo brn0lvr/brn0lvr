@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/brn0lvr" alt="Bruno Miranda" width="120" height="120" style="border-radius: 50%; border: 4px solid #00d4ff;">
+  <img src="https://tse3.mm.bing.net/th/id/OIP.N9QpQ009skxEONboTj537QHaFh?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Bruno Miranda" width="120" height="120" style="border-radius: 50%; border: 4px solid #00d4ff;">
   
   # 👋 Bruno Miranda
   
