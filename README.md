@@ -47,7 +47,7 @@ Confira meus repositórios para ver o que estou desenvolvendo e aprendendo!
 
 - **Email**: brunomiranda115@gmail.com
 - **GitHub**: [@brn0lvr](https://github.com/brn0lvr)
-- **Localização**: Americana, SP - Brasil
+- **Localização**: Sumaré, SP - Brasil
 
 ## 🌱 Atualmente Estudando
 
